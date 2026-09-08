@@ -13,4 +13,7 @@ syms = {
 	"models": ["one"],
 	"audio": ["one"]
 }
+routes = {
+	"/audio": "audio"
+}
 requires = ["virtyou/ctzero"]
