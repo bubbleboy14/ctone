@@ -16,4 +16,4 @@ syms = {
 routes = {
 	"/audio": "audio"
 }
-requires = ["virtyou/ctzero"]
+requires = ["ctzero"]
