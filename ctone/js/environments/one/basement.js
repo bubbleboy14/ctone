@@ -19,7 +19,7 @@ environments.one.basement = {
 					lever: [{ circuit: "building" }]
 				}, {
 					position: [-200, 0, -200],
-					rotation: [0, -P2, 0],
+					rotation: [0, P2, 0],
 					switch: [{ circuit: "bulb0" }]
 				}]
 			},
@@ -47,7 +47,7 @@ environments.one.basement = {
 				circuit: "building",
 				parts: [{
 					variety: "rusty",
-					position: [10, -20, 350],
+					position: [-50, -20, 350],
 					rotation: [0, Math.PI, 0]
 				}]
 			}
