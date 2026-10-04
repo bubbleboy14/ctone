@@ -72,6 +72,20 @@ environments.one.apartment = {
 					position: [0, -135, 150],
 					rotation: [Math.PI, 0, 0]
 				}]
+			},
+			washer: {
+				circuit: "building",
+				parts: [{
+					variety: "white",
+					position: [-110, -265, 0]
+				}]
+			},
+			dryer: {
+				circuit: "building",
+				parts: [{
+					variety: "white",
+					position: [-200, -265, 0]
+				}]
 			}
 		}
 	},

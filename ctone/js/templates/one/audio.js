@@ -13,7 +13,9 @@ var audioMap = templates.one.audio.amap = {
 		whoff: 2,
 		whon: 2,
 		drip: 3,
-		zap: 5
+		zap: 5,
+		washer: "washer",
+		dryer: "dryer"
 	},
 	pool: {
 		within: "within",

@@ -6,6 +6,20 @@ templates.one.appliance = {
 			}
 		}
 	},
+	washer: {
+		white: {
+			cabinet: {
+				texture: "/maps/one/white.jpg"
+			}
+		}
+	},
+	dryer: {
+		white: {
+			cabinet: {
+				texture: "/maps/one/white.jpg"
+			}
+		}
+	},
 	elevator: {
 		spooky: {
 			stepper: "hard",
