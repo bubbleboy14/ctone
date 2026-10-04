@@ -77,14 +77,14 @@ environments.one.apartment = {
 				circuit: "building",
 				parts: [{
 					variety: "white",
-					position: [-110, -265, 0]
+					position: [-200, -265, 0]
 				}]
 			},
 			dryer: {
 				circuit: "building",
 				parts: [{
 					variety: "white",
-					position: [-200, -265, 0]
+					position: [-110, -265, 0]
 				}]
 			}
 		}
